@@ -6,10 +6,10 @@
   "scripts": {
     "dev": "nodemon src/index.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["Nodejs","Express","Mongoose","MongoDb","Practice"],
+  "author": "Rohan Mondal",
   "license": "ISC",
-  "description": "",
+  "description": "This is a practice project using mongodb by following a YouTube tutorial",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
@@ -17,6 +17,7 @@
     "mongoose": "^8.5.2"
   },
   "devDependencies": {
-    "nodemon": "^3.1.4"
+    "nodemon": "^3.1.4",
+    "prettier": "^3.3.3"
   }
 }
